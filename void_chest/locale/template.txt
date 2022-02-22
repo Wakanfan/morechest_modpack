@@ -1,0 +1,3 @@
+# textdomain: void_chest
+Void Chest (Ender Chest Minecraft)=
+Void Chest=
